@@ -12,7 +12,7 @@ export const EXPERIENCES = [
   {
     year: "Aug 2024 - Present",
     role: "Full Stack Developer",
-    company: "Google Inc.",
+    company: "Leapot Technologies",
     description: `Designing and developing user interfaces and robust APIs for live company products using React, Node.js, Express, and MongoDB.Building scalable front-end and back-end solutions, ensuring optimal performance and user experience.
 `,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB", "Redux"],
