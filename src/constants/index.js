@@ -10,6 +10,13 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
+    year: "January 2025 - Present",
+    role: "Associate Software Engineer",
+    company: "Webkorps",
+    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    technologies: ["React.js", "React Native", "Postgres", "Javascript","Docker", "Kubernetes", "AWS", "Terraform", "Next.js"],
+  },
+  {
     year: "July 2023 - December 2024",
     role: "Junior Full Stack Developer",
     company: "Leapot Technologies",
@@ -17,13 +24,7 @@ export const EXPERIENCES = [
 `,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB", "Redux"],
   },
-  {
-    year: "2022 - 2023",
-    role: "Associate Software Engineer",
-    company: "Webkorps",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["React.js", "React Native", "Postgres", "Javascript","Docker", "Kubernetes", "AWS", "Terraform", "Next.js"],
-  },
+  
   // {
   //   year: "2021 - 2022",
   //   role: "Full Stack Developer",
